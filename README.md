@@ -4,6 +4,7 @@ For the TV shows addicts. Automatically download latest episodes with Transmissi
 
 ## Dependencies
 
-This script uses Podget to aggregates the TV shows: http://podget.sourceforge.net/
+### Podget
 
+Podget is a simple podcast aggregator: http://podget.sourceforge.net/
 
