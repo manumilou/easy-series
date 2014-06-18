@@ -1,0 +1,17 @@
+#!/bin/bash
+
+set -x
+
+DOWNLOAD_DIR=$HOME/downloads
+TVSHOWS_DIR=$HOME/tvshows
+
+# Go to download directory (/storage)
+cd $DOWNLOAD_DIR
+
+echo $TR_TORRENT_NAME > /tmp/log
+echo $TR_TORRENT_DIR >> /tmp/log
+
+python $HOME/post-torrent.py 
+
+exit 0
+

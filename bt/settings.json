@@ -1,0 +1,62 @@
+{
+	"homeland": 
+	{ 
+		"dir": "/storage/tvshows/Homeland",
+		"patterns": "Homeland HomeLand Home.Land"
+	},
+	"weeds": 
+	{ 
+		"dir": "/storage/tvshows/Weeds",
+		"patterns": "Weeds weeds" 
+	},
+	"bigbangtheory": 
+	{ 
+		"dir": "/storage/tvshows/The.Big.Bang.Theory",
+		"patterns": "The.Big.Bang.Theory" 
+	},
+	"greys": 
+	{ 
+		"dir": "/storage/tvshows/Grey's Anatomy",
+		"patterns": "Greys.Anatomy" 
+	},
+	"privatepractice": 
+	{ 
+		"dir": "/storage/tvshows/Private.Practice",
+		"patterns": "Private.Practice" 
+	},
+	"americanhorrorstory": 
+	{ 
+		"dir": "/storage/tvshows/American.Horror.Story",
+		"patterns": "American.Horror.Story" 
+	},
+	"newgirl": 
+	{ 
+		"dir": "/media/sdc1-ata-WDC_WD15EARS-00Z/tvshows/New Girl",
+		"patterns": "New.Girl" 
+	},
+	"platane": 
+	{ 
+		"dir": "/media/sdc1-ata-WDC_WD15EARS-00Z/tvshows/Platane",
+		"patterns": "Platane" 
+	},
+	"truedetective": 
+	{ 
+		"dir": "/media/sdc1-ata-WDC_WD15EARS-00Z/tvshows/True.Detective",
+		"patterns": "True.Detective" 
+	},
+	"scandal": 
+	{ 
+		"dir": "/storage/tvshows/Scandal",
+		"patterns": "Scandal" 
+	},
+	"suits": 
+	{ 
+		"dir": "/storage/tvshows/Suits",
+		"patterns": "Suits" 
+	},
+	"gameofthrones": 
+	{ 
+		"dir": "/media/sdc1-ata-WDC_WD15EARS-00Z/tvshows/Game.Of.Thrones",
+		"patterns": "Game.of.Thrones" 
+	}
+}
