@@ -26,7 +26,7 @@
 	},
 	"americanhorrorstory": 
 	{ 
-		"dir": "/storage/tvshows/American.Horror.Story",
+		"dir": "/media/sdc1-ata-WDC_WD15EARS-00Z/tvshows/American.Horror.Story",
 		"patterns": "American.Horror.Story" 
 	},
 	"newgirl": 
@@ -46,7 +46,7 @@
 	},
 	"scandal": 
 	{ 
-		"dir": "/storage/tvshows/Scandal",
+		"dir": "/media/sdc1-ata-WDC_WD15EARS-00Z/tvshows/Scandal",
 		"patterns": "Scandal" 
 	},
 	"suits": 
@@ -58,5 +58,15 @@
 	{ 
 		"dir": "/media/sdc1-ata-WDC_WD15EARS-00Z/tvshows/Game.Of.Thrones",
 		"patterns": "Game.of.Thrones" 
+	},
+	"theleftovers": 
+	{ 
+		"dir": "/media/sdc1-ata-WDC_WD15EARS-00Z/tvshows/The.Leftovers",
+		"patterns": "The.Leftovers" 
+	},
+	"siliconvalley": 
+	{ 
+		"dir": "/media/sdc1-ata-WDC_WD15EARS-00Z/tvshows/Silicon.Valley",
+		"patterns": "Silicon.Valley" 
 	}
 }
